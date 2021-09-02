@@ -2,3 +2,4 @@ charecters
 1.captain america
 2.spiderman
 3.hulk
+4.thor
